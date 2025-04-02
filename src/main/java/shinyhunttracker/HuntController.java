@@ -48,7 +48,7 @@ public class HuntController {
      */
     public static void createHuntController(){
         //Initial Hunt Controller setup
-        huntControls.setTitle("Hunt Controller");
+        huntControls.setTitle("lax Hunt");
         huntControlsLayout.setAlignment(Pos.CENTER);
         huntControlsLayout.setVgap(10);
         huntControlsLayout.setHgap(10);
